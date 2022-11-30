@@ -2,7 +2,7 @@
 - 👀 I’m interested in all areas of software engineering
 - 🌱 I’m currently learning python
 
-- 📫 How to reach me ....
+- 📫 
 You can reach me on twitter @abduls0mad
 
 <!---
