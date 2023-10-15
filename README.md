@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Abdulsalam Abdulsomad<@Abduls4u>
-- 👀 I’m interested in software engineering
+- 👀 I’m a prospective software engineer
 - 🌱 I’m currently specialising in backend web development at alx-africa.
 
 - 📫 
