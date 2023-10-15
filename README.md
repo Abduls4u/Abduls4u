@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Abduls4u
-- 👀 I’m interested in all areas of software engineering
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m  Abdulsalam Abdulsomad<@Abduls4u>
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently specialising in backend web development at alx-africa.
 
 - 📫 
 You can reach me on twitter @abduls0mad
