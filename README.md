@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Abdulsalam Abdulsomad<@Abduls4u>
 - 👀 I’m a prospective software engineer
-- 🌱 I’m currently specialising in backend web development at alx-africa.
+- 🌱 I’m a backend web developer from alx-africa.
 
 - 📫 
 You can reach me on twitter @abduls0mad
