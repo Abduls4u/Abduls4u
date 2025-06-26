@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduls4u&label=Profile%20views&color=0e75b6&style=flat" alt="abduls4u" /> </p>
 
-- 🌱 I’m currently learning **Python fastapi**
 
 - 👯 I’m looking to collaborate on **Python backend projects**
 
