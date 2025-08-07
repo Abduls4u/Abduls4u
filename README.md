@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdulsalam Abdulsomad .A.</h1>
-<h3 align="center">A passionate backend developer from Nigeria.</h3>
+<h3 align="center">A passionate Software Engineer | Backend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduls4u&label=Profile%20views&color=0e75b6&style=flat" alt="abduls4u" /> </p>
 
 
-- 👯 I’m looking to collaborate on **Python backend projects**
+- 👯 I’m looking to collaborate on **Amazing Backend projects**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Backend technologies 🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
