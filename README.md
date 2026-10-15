@@ -17,7 +17,7 @@
 
 Building beyond the abstractions.
 
-</div>---
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" width="100%" alt=""/>🧑🏽‍💻 About Me
 
