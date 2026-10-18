@@ -21,7 +21,7 @@ Building beyond the abstractions.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient" width="100%" alt=""/>🧑🏽‍💻 About Me
 
-I'm Abdulsalam — a Backend Engineer, Computer Engineering student, and builder interested in the intersection of software, systems, and hardware.
+I'm Abdulsalam  Abdulsomad— a Software Engineer, Computer Engineering student, and builder interested in the intersection of software, systems, and hardware.
 
 I build backend systems and APIs, think deeply about architecture, and enjoy turning ideas into working products. I'm also curious about what happens beneath the abstractions — from databases and networks to operating systems, computer architecture, and hardware.
 
